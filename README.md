@@ -1,5 +1,7 @@
 ksync is a small utility that syncs two directories.
+
 Type ksync without any parameters for a list of options.
+
 There are two sync options, echo and mirror. If you don't specify the -o option, echo is the default.
 --- Echo copies the missing files and the newer files (if destination file exists) from the source to the destination. (A -> B).
 --- Mirror does the same, but then checks the destination against source. (A -> B, B -> A).
