@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "ksync": {
+      "commandName": "Project",
+      "commandLineArgs": "-s q:\\ -d i:\\ -c -ss -sh -e Jona"
+    }
+  }
+}
